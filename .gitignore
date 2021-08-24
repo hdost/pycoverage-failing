@@ -1,0 +1,7 @@
+venv/
+.tox/
+.coverage
+__pycache__/
+junit-*.xml
+*.egg-info/
+coverage-*.xml

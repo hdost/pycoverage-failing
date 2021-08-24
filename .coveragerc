@@ -1,0 +1,4 @@
+[run]
+source =
+    scripts/mod1
+    scripts/mod2
