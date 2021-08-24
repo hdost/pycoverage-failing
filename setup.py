@@ -34,7 +34,7 @@ setuptools.setup(
     test_suite="tests",
     package_dir={
         "mod1": "scripts/mod1",
-        "mod2": "scripts/mod2",
+        "mod2": "mod2",
         # Make pip -e happy
         "": "scripts",
     },
