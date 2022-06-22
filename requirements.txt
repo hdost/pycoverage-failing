@@ -6,7 +6,7 @@ requests==2.25.1
 pytimeparse==1.1.8
 python-consul
 pandas==1.1.5
-numpy==1.19.5
+numpy==1.22.0
 tabulate
 grafana_api==1.0.3
 py-consul==1.2.3
